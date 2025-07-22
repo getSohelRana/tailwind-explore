@@ -1,0 +1,20 @@
+/* EB Garamond google font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+/* poppins google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-eb-garamond: "EB Garamond", serif;
+  --font-Poppins: "Poppins", sans-serif; 
+  --dark-07: #F3F3F3;
+  --dark-06: #E7E7E7;
+  --dark-05: #CFCFCF;
+  --dark-04: #A0A0A0;
+  --dark-03: #707070;
+  --dark-02: #414040;
+  --dark-01: #111111;
+  --btn-bg: #B68C5A;
+}
